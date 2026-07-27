@@ -46,6 +46,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </p>
 
+<h3 align="center">Projects</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/qbcx/url-shortener">
+        <img src="https://img.shields.io/badge/URL_Shortener-Node.js_+_Express_+_SQLite-7aa2f7?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="URL Shortener" />
+      </a>
+      <br><br>
+      <sub>REST API with click tracking, 301 redirects, dark-themed dashboard, and Docker support.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/qbcx/weather-discord-bot">
+        <img src="https://img.shields.io/badge/Weather_Bot-Python_+_discord.py-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Weather Bot" />
+      </a>
+      <br><br>
+      <sub>Discord slash command bot with WeatherAPI integration, deployed on Railway.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/qbcx/qbcx-portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-HTML_+_CSS_+_JS-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+      </a>
+      <br><br>
+      <sub>Responsive dark-themed portfolio, auto-deployed via Vercel CI.</sub>
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
+
 <hr>
 
 <div align="center">
