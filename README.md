@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=qbcx&label=Profile%20views&color=0e75b6&style=flat" alt="qbcx" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=qbcx&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile views" /> </p>
 
 <p align="center">📫 Reach me at <a href="mailto:qbcx@tuta.io">qbcx@tuta.io</a> or <a href="https://qbcx.is-a.dev">qbcx.is-a.dev</a>
 </p>
@@ -61,22 +61,47 @@
 
 ---
 
+### 📊 Statistics |
+
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=qbcx&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qbcx&show_icons=true&theme=tokyonight&hide_border=true&v=3" height="165" alt="stats" />
+  <a href="https://github.com/qbcx">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=qbcx&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qbcx&layout=compact&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qbcx&layout=compact&theme=tokyonight&hide_border=true&v=3" height="165" alt="top langs" />
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/qbcx">
+    <img src="https://github-profile-trophy.vercel.app/?username=qbcx&column=7&theme=nord&no-bg=true&no-frame=true" alt="qbcx trophies" />
   </a>
-  <br><br>
-  <a href="https://streak-stats.demolab.com/?user=qbcx&theme=tokyonight&hide_border=true&short_numbers=true">
-    <img src="https://streak-stats.demolab.com/?user=qbcx&theme=tokyonight&hide_border=true&short_numbers=true&v=3" alt="streak" />
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=qbcx&show_icons=true&theme=transparent&hide_border=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qbcx&show_icons=true&theme=transparent&hide_border=true" height="165" alt="stats" />
   </a>
-  <br><br>
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=qbcx&theme=tokyo-night&hide_border=true&bg_color=1A1B27">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qbcx&theme=tokyo-night&hide_border=true&bg_color=1A1B27&v=3" alt="activity" />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qbcx&layout=compact&theme=transparent&hide_border=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qbcx&layout=compact&theme=transparent&hide_border=true" height="165" alt="top langs" />
   </a>
-  <br><br>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://streak-stats.demolab.com/?user=qbcx&theme=transparent&hide_border=true&short_numbers=true">
+    <img src="https://streak-stats.demolab.com/?user=qbcx&theme=transparent&hide_border=true&short_numbers=true" alt="streak" />
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=qbcx&bg_color=00000000&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qbcx&bg_color=00000000&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true" alt="activity" />
+  </a>
+</div>
+<br>
+
+<div align="center">
   <a href="https://github.com/qbcx">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qbcx/qbcx/output/github-snake-dark.svg" />
