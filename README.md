@@ -27,52 +27,34 @@
 </p>
 
 <h3 align="center">Languages and Tools</h3>
-<div align="center">
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" /></a>
-  <a target="_blank" rel="noopener noreferrer" href=""><img width="12" /></a>
-  <a target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" /></a>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+</p>
 
 <hr>
+
 <div align="center">
   <a href="https://github.com/qbcx"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qbcx&theme=tokyonight&hide_border=true" height="180" alt="" /></a>
   <a href="https://github.com/qbcx"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbcx&theme=tokyonight&hide_border=true" height="180" alt="" /></a>
-<br><br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=qbcx&theme=tokyonight&hide_border=true&short_numbers=true" alt="streak" />
-  </a>
   <br><br>
-  <a href="https://github.com/qbcx">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qbcx&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="activity" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qbcx&theme=tokyonight&hide_border=true&short_numbers=true" alt="streak" /></a>
+  <br><br>
+  <a href="https://github.com/qbcx"><img src="https://github-readme-activity-graph.vercel.app/graph?username=qbcx&theme=tokyo-night&hide_border=true&bg_color=1A1B27" alt="activity" /></a>
   <br><br>
   <a href="https://github.com/qbcx">
     <picture>
