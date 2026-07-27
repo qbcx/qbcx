@@ -62,15 +62,10 @@
 </div>
 
 <hr>
-
 <div align="center">
-  <a href="https://github.com/qbcx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qbcx&theme=tokyonight&hide_border=true" height="180" alt="stats" />
-  </a>
-  <a href="https://github.com/qbcx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbcx&theme=tokyonight&hide_border=true" height="180" alt="top langs" />
-  </a>
-  <br><br>
+  <a href="https://github.com/qbcx"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qbcx&theme=tokyonight&hide_border=true" height="180" alt="" /></a>
+  <a href="https://github.com/qbcx"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qbcx&theme=tokyonight&hide_border=true" height="180" alt="" /></a>
+<br><br>
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=qbcx&theme=tokyonight&hide_border=true&short_numbers=true" alt="streak" />
   </a>
